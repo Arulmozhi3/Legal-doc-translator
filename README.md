@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Legal document translator
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
@@ -28,3 +29,6 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+=======
+# Legal-doc-translator
+>>>>>>> 0d1998b8b06b149efae04866b519128f3117ff53
